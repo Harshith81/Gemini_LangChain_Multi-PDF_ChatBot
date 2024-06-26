@@ -8,3 +8,4 @@ langchain_google_genai
 chromadb
 # or anyone between these two depending upon on our usecase
 faiss-cpu
+langchain-community
